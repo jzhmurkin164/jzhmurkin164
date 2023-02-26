@@ -1,0 +1,20 @@
+header{border:solid #d8701a; 
+    position: relative;}
+
+body{background: url(images/sun2.png) no-repeat; background-size:100%;
+}
+h2{display: inline;
+    position: relative;
+    width: 393px;
+    height: 114px;
+    left: 479px;
+    top: 121px;
+    
+    font-family: 'Rubik Beastly';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    
+    color: #000000;}
+    main{display:flex;justify-content: space-around;}
